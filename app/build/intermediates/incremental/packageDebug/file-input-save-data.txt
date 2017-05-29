@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Mon May 29 16:47:56 GMT+03:00 2017
+2.base=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\mouse.jpg
+5.set=ANDROID_RESOURCE
+3.base=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\activity_main.xml
+4.base=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\documents\\Game18-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+7.set=DEX
+count=11
+0.file=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\activity_about.xml
+5.base=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\cat.png
+4.set=ANDROID_RESOURCE
+6.base=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+9.set=ANDROID_RESOURCE
+9.file=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_about.xml
+10.base=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=D\:\\documents\\Game18-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+2.file=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\documents\\Game18-master\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\dog.jpg
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

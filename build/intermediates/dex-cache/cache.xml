@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\documents\Game18-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="306ff6d02fbdd788887f55632c072bb4c6269da5">
+        <dex dex="D:\documents\Game18-master\app\build\intermediates\pre-dexed\debug\instant-run_b0020377d7b36cf3212a55925a498a425df2fad9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\documents\Game18-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="197a81a17aa9a24aec11a88c914eed77052173ce">
+        <dex dex="D:\documents\Game18-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5ab8ca554e173a10b8dc41e8eca1756b54a7ac1e.jar" />
+    </item>
+
+</items>
